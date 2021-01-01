@@ -7,7 +7,7 @@
 * make sure you download required repositaries
 * needed Repositaries can be installed by using pip 
 
-# needed modules
+# Needed modules
 * pip install bs4
 * pip install urllib
 
