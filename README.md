@@ -8,8 +8,8 @@
 * needed Repositaries can be installed by using pip 
 
 # needed modules
- pip install bs4
- pip install urllib
+* pip install bs4
+* pip install urllib
 
 # Note : the arguments can be passed directly on terminal 
 
