@@ -1,6 +1,6 @@
 # Scrapper2.0
 
-# This is a very great tool for scrapping innerlinks of a Given URl 
+# This is a very great tool for scrapping innerlinks of a Given URl
 
 # Needed Repositaries:  
 
